@@ -30,8 +30,11 @@ This project is particularly relevant for **low-resource language translation** 
 ## 📂 Repository Structure
 
 ├── Finetunining_mT5.ipynb # Main notebook (training + inference)
+
 ├── requirements.txt # Project dependencies
+
 ├── translation.jpg # Project illustration
+
 └── README.md # Project documentation
 
 ---
@@ -54,7 +57,7 @@ The dataset is loaded programmatically using `kagglehub` and prepared for transf
 The project is designed to run seamlessly on **Google Colab** with GPU acceleration.
 
 ### Install Dependencies
-```bash
+
 pip install -U transformers datasets sentencepiece accelerate kagglehub
 
 ---
