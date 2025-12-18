@@ -78,6 +78,8 @@ pip install -U transformers datasets sentencepiece accelerate kagglehub
 
 ## ⭐ Acknowledgements
 
+- 3MTT/DeepTech_Ready
+
 - Google Research (mT5)
 
 - Hugging Face 🤗
