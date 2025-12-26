@@ -1,6 +1,6 @@
 # Fine-Tuning mT5 for English–Hausa Translation
 
-This repository contains an end-to-end implementation of **fine-tuning the multilingual T5 (mT5) model for English to Hausa machine translation**, along with a simple **Streamlit web application** for inference.
+This repository contains an implementation of **fine-tuning the multilingual T5 (mT5) model for English to Hausa machine translation**, along with an inference.
 
 The project demonstrates how to prepare a bilingual dataset, fine-tune a pretrained sequence-to-sequence transformer using the Hugging Face ecosystem, and deploy the resulting model for real-world usage.
 
